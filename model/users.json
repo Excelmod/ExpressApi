@@ -1,0 +1,18 @@
+[
+    {
+        "username": "lucas",
+        "roles": { "Admin": 5150, "Editor": 1984, "User": 2001 },
+        "password": "$2b$10$Evy0j/W.rwgXyTEGyye47Op2EZg4DU1uP8HjPSX91OnEg4iQXiT/a"
+    },
+    {
+        "username": "thomas",
+        "roles": { "User": 2001 },
+        "password": "$2b$10$sS.FPvTvtrQAIjDPKDZeR.ooL1aZ/7FBuSnk.HUbofIDb8yNrnFt2"
+    },
+    {
+        "username": "xavier",
+        "roles": { "Editor": 1984, "User": 2001 },
+        "password": "$2b$10$A5l.38yAeIAcsL3g.XEXuO6jYqpVsYH9j09ysOyimnzhW1.Ekf7by",
+        "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InhhdmllciIsImlhdCI6MTY4MDczMTc1NiwiZXhwIjoxNjgwODE4MTU2fQ.lzoaW_uQVn97pCoCgZgsst8uRi3kbLQtnCxvp_luKxg"
+    }
+]
